@@ -2,6 +2,7 @@
 My understanding and implementation of ML algorithms that I would write from scratch in Python.
 
 Following is how the code will be structured:
+
 Scratch ML/
 │
 ├── data/                     # Raw and processed data files

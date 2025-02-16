@@ -14,7 +14,7 @@ Scratch ML/
 ├── notebooks/                # Jupyter notebooks for exploration and prototyping
 │   ├── 01_exploration.ipynb  # Data exploration
 │   ├── 02_modeling.ipynb     # Model training and validation
-|   └── 03_testing.ipynb      # Random testing used as a scratchpad
+│   └── 03_testing.ipynb      # Random testing used as a scratchpad
 │
 ├── src/                      # Core source code for all algorithms
 │   ├── __init__.py           # To create a python package out of it
@@ -28,7 +28,7 @@ Scratch ML/
 │   │   ├── svm.py
 │   │   ├── xgboost.py
 │   │   ├── neural_network.py
-|   |   └── etc...
+│   │   └── etc...
 │   ├── utils/                # Helper functions and utilities
 │   │   ├── metrics.py        # Functions for performance metrics (e.g., accuracy, precision)
 │   │   ├── logger.py         # Custom logger for tracking experiments
